@@ -6,7 +6,7 @@ excerpt: |
 tags: [Xamarin]
 ---
 
-Le toco el turno a Xamarin Forms [@xamarinhq] tambien, una herramienta muy util para hacer aplicaciones mobile.  
+Le toco el turno a Xamarin Forms [@xamarinhq](https://twitter.com/xamarinhq) tambien, una herramienta muy util para hacer aplicaciones mobile.  
 
 Me encontre con la incognita de como hacer una búsqueda, una barra de búsqueda.  Me puse a hacerla toda a mano usando:
 
