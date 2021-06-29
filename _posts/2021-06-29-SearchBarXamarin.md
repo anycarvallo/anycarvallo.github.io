@@ -42,7 +42,7 @@ Pero existe:
                SearchButtonPressed="OnEntryCompleted" 
 ```
 
-la cual te soluciona completamente la vida. ;)
+lo cual te soluciona completamente la vida. ;)
 
 ![SearchBar](/assets/img/xamarin2.jpeg)
 
