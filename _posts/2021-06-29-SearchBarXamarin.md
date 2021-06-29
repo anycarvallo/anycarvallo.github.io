@@ -25,7 +25,7 @@ Y agregando icono de lupa a mano.
 Pero existe: 
 
  ```xml
-<SearchBar></>
+<SearchBar />
  ```
 
 
@@ -39,7 +39,7 @@ Pero existe:
                HorizontalTextAlignment="Start"
                FontSize="Medium"
                FontAttributes="Italic"
-               SearchButtonPressed="OnEntryCompleted" 
+               SearchButtonPressed="OnEntryCompleted" />
 ```
 
 lo cual te soluciona completamente la vida. ;)
