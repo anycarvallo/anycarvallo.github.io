@@ -1,5 +1,7 @@
 ---
 title: "Volviendo..."
+excerpt: |
+    Hace varios años que estoy intentando volver al mundo de la programación después de mucho tiempo alejada.
 tags: [programar]
 ---
 
