@@ -7,7 +7,7 @@ Le toco el turno a Xamarin Forms [@xamarinhq] tambien, una herramienta muy util 
 
 Me encontre con la incognita de como hacer una búsqueda, una barra de búsqueda.  Me puse a hacerla toda a mano usando:
 
-```xaml
+```xml
 <Entry Placeholder="Buscar libro por Titulo / Autor / Palabra clave" 
    FontSize="16"
    Margin="30,0,0,10"
@@ -21,12 +21,12 @@ Y agregando icono de lupa a mano.
 
 Pero existe: 
 
- ```xaml
+ ```xml
 <SearchBar></>
  ```
 
 
-```xaml
+```xml
      <SearchBar Placeholder="Buscar libro por Titulo / Autor / Palabra clave" 
                CancelButtonColor="LightGray"
                PlaceholderColor="LightGray"
