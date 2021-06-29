@@ -24,11 +24,6 @@ Y agregando icono de lupa a mano.
 
 Pero existe: 
 
- ```xml
-<SearchBar />
- ```
-
-
 ```xml
      <SearchBar Placeholder="Buscar libro por Titulo / Autor / Palabra clave" 
                CancelButtonColor="LightGray"
