@@ -1,6 +1,6 @@
 ---
 title: "SearchBar en Xamarin Forms"
-desciption: |
+description: |
    Le toco el turno a Xamarin Forms [@xamarinhq] tambien, una herramienta muy util para hacer aplicaciones mobile.  
    Me encontre con la incognita de como hacer una búsqueda, una barra de búsqueda.
 tags: [Xamarin]
