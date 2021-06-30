@@ -42,7 +42,37 @@ lo cual te soluciona completamente la vida. ;)
 ![SearchBar](/assets/img/xamarin2.jpeg)
 
 
+---
+
+It's the turn of Xamarin Forms [@xamarinhq](https://twitter.com/xamarinhq) a very useful tool for making mobile apps.  
+
+I wanted to do a search, a search bar.  I made it using:
 
 
+```xml
+<Entry Placeholder="Buscar libro por Titulo / Autor / Palabra clave" 
+   FontSize="16"
+   Margin="30,0,0,10"
+   Completed="OnEntryCompleted" />
+```
+![Entry](/assets/img/xamarin1.jpeg)
+
+And adding a magnifying glass icon by hand.
+
+But there is:
+```xml
+     <SearchBar Placeholder="Buscar libro por Titulo / Autor / Palabra clave" 
+               CancelButtonColor="LightGray"
+               PlaceholderColor="LightGray"
+               TextColor="Black"
+               Margin="0,10,0,10"
+               TextTransform="Lowercase"
+               HorizontalTextAlignment="Start"
+               FontSize="Medium"
+               FontAttributes="Italic"
+               SearchButtonPressed="OnEntryCompleted" />
+```
+which completely solves your life. ;)
 
 
+![SearchBar](/assets/img/xamarin2.jpeg)
